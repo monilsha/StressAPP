@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_projects\StressAPP\app\libs\pipsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e94c1f6184cef02194fcc655ace1b10a83319ee">
+        <dex dex="D:\Android_projects\StressAPP\app\build\intermediates\pre-dexed\debug\pipsdk-d9196724cf18a793c9c37505a955167e24b60d33.jar" />
+    </item>
+    <item
+        jar="C:\Users\monil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android_projects\StressAPP\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-da851cf7804be2f05aba545ad8d4de315e9dd727.jar" />
+    </item>
+
+</items>
